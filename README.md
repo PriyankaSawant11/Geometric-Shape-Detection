@@ -7,7 +7,7 @@
 
 Detecting Geometrical Shapes in an image using OpenCV
 
-
+We will see that how we can detect shapes using cv2 in an image using contours and moments.
 
 
 
